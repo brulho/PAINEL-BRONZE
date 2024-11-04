@@ -4,7 +4,7 @@ import time
 import os
 
 # URL do seu repositório GitHub onde o JSON está armazenado
-DATA_URL = "https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/links.json"
+DATA_URL = "https://raw.githubusercontent.com/brulho/PAINEL-BRONZE/refs/heads/main/dados.json"
 
 def carregar_dados():
     print("Carregando base de dados...")
