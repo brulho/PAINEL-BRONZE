@@ -273,54 +273,76 @@
 	},
 	"Leitura":{
 	   "Buscadores":[
-		  "https://www.google.com/",
-		  "https://www.bing.com/",
-		  "https://www.duckduckgo.com/"
+		  "https://pt.annas-archive.org/",
+		  "https://pdfroom.com/",
+		  "https://ravebooksearch.com/#gsc.tab=0"
 	   ],
 	   "Mangás":[
+		  "https://slimeread.com/",
+		  "https://lermangas.me/",
 		  "https://mangadex.org/",
-		  "https://mangaplus.shueisha.co.jp/",
-		  "https://www.mangaupdates.com/"
+		  "https://bato.to/",
+		  "https://fanfox.net/",
+		  "https://manga4life.com/",
+		  "https://mangabuddy.com/official",
+		  "https://mangahub.io/",
+		  "https://mangakakalot.com/",
+		  "https://mangakatana.com/",
+		  "https://mangakomi.io/",
+		  "https://mangapark.io/",
+		  "https://mangapill.com/",
+		  "https://www.mangaread.org/",
+		  "https://mangareader.to/",
+		  "https://toonily.com/",
+		  "https://mangaonline.biz/",
+		  "https://mangabr.net/",
+		  "https://mangafire.to/"
 	   ],
 	   "Livros Geral":[
-		  "https://www.goodreads.com/",
-		  "https://www.scribd.com/",
-		  "https://www.projectgutenberg.org/"
+		  "https://elivros.love/",
+		  "https://www.baixelivros.com.br/",
+		  "https://docero.com.br/",
+		  "https://archive.org/details/texts?sort=-publicdate&and%5B%5D=language%3A%22Portuguese%22",
+		  "https://datassette.org/",
+		  "https://z-library.sk/",
+		  "https://libgen.is/",
+		  "https://oceanofpdf.com/category/languages/portuguese-language-books/?id=000192234242",
+		  "https://sci-hub.se/",
+		  "https://gutenberg.org/"
 	   ],
 	   "AudioLivros":[
-		  "https://www.audible.com/",
-		  "https://www.audiobooks.com/",
-		  "https://www.learnoutloud.com/"
+		  "https://archive.org/details/audio_bookspoetry",
+		  "https://audioaz.com/en",
+		  "https://cdaudiobook.com/",
+		  "https://bookaudiobook.net/",
+		  "https://bigaudiobooks.club/",
+		  "https://goldenaudiobook.net/",
+		  "https://galaxyaudiobook.com/",
+		  "https://hotaudiobooks.com/",
+		  "https://appaudiobooks.net/"
 	   ],
 	   "HQs":[
-		  "https://www.comixology.com/",
-		  "https://www.marvel.com/comics",
-		  "https://www.dc.com/comics"
+		  "https://site.ds-club.net/",
+		  "https://baixarquadrinhos.net/"
 	   ]
 	},
 	"Música":{
 	   "Baixar Youtube":[
-		  "https://ytmp3.cc/",
-		  "https://ytmp4.cc/",
-		  "https://www.y2mate.com/"
+		  "https://bestmp3converter.com/youtube-mp3",
+		  "https://ytmp3hub.com/youtube-to-mp3-1"
 	   ],
 	   "Baixar SoundCloud":[
-		  "https://soundcloudtomp3.co/",
-		  "https://scdownloader.com/",
-		  "https://www.scloudtomp3.com/"
+		  "https://downloadsound.cloud/"
 	   ],
 	   "Baixar Spotify":[
-		  "https://www.spotifydownloader.com/",
-		  "https://www.spotydl.com/",
-		  "https://www.spotdl.com/"
+		  "https://spotdownloader.com/",
+		  "https://spotifymate.com/en"
 	   ]
 	},
 	"Inteligências Artificiais":{
-	   "url":"https://www.openai.com/",
-	   "descrição":"Plataformas de IA e ferramentas"
+	   "url":"https://raw.githubusercontent.com/piratarialink/megathread_pirata/refs/heads/main/docs/ia.md",
 	},
 	"Sites Perigosos":{
-	   "url":"https://www.phishing.org/",
-	   "descrição":"Sites que podem comprometer a segurança"
+	   "url":"https://raw.githubusercontent.com/piratarialink/megathread_pirata/refs/heads/main/docs/sites-inseguros.md",
 	}
  }
